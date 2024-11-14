@@ -166,3 +166,8 @@ a.secondary {
     filter: invert();
   }
 }
+
+
+.customFont{
+  font-family: 'Poppins', sans-serif !important;
+}

@@ -6,4 +6,4 @@ const nextConfig: NextConfig = {
   /* config options here */
 };
 
-export default withNetlify(nextConfig);
+export default nextConfig;
